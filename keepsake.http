@@ -1,0 +1,6 @@
+@keepsake_HostAddress = http://localhost:5038
+
+GET {{keepsake_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
