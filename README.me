@@ -1,0 +1,17 @@
+# Keepsake
+
+A RESTful API for managing Todo items, implemented in C#/.NET.
+
+## Technical Specifications
+
+* **Architecture:** Clean Architecture (Domain, Application, Infrastructure, and API layers)
+* **Data Access:** Entity Framework Core (PostgreSQL)
+* **API Interface:** Minimal APIs with OpenAPI and Scalar integration
+* **Core Entities:** TodoItem
+
+## Endpoints
+
+* `POST /api/todos`: Create a new Todo item
+* `GET /api/todos/{id}`: Retrieve a Todo item by ID
+* `PUT /api/todos/{id}`: Update a Todo item's title or completion status
+* `DELETE /api/todos/{id}`: Delete a Todo item
