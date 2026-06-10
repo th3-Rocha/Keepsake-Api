@@ -3,10 +3,10 @@ using keepsake.Infrastructure.Context;
 using keepsake.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using keepsake.API.Endpoints;
-
+using Scalar.AspNetCore;
 var builder = WebApplication.CreateBuilder(args);
 
-
+builder.Services.AddOpenApi();
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
@@ -22,6 +22,12 @@ builder.Services.AddScoped<keepsake.Application.UseCases.Todos.UpdateTodo.Update
 
 builder.Services.AddControllers();
 var app = builder.Build();
+
+if (app.Environment.IsDevelopment())
+{
+    app.MapOpenApi();
+    app.MapScalarApiReference();
+}
 
 app.MapTodoEndpoints();
 

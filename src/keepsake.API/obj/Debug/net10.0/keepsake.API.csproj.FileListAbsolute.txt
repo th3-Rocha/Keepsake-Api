@@ -136,3 +136,4 @@
 /home/rocha/projects/keepsake/src/keepsake.API/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /home/rocha/projects/keepsake/src/keepsake.API/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /home/rocha/projects/keepsake/src/keepsake.API/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/rocha/projects/keepsake/src/keepsake.API/bin/Debug/net10.0/Scalar.AspNetCore.dll
