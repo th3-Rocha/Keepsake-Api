@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/keepsake.Application/keepsake.Application.csproj" />
+    <Project Path="src/keepsake.Domain/keepsake.Domain.csproj" />
+    <Project Path="src/keepsake.Infrastructure/keepsake.Infrastructure.csproj" />
+  </Folder>
+</Solution>

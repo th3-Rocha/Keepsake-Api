@@ -1,0 +1,6 @@
+@keepsake.API_HostAddress = http://localhost:5294
+
+GET {{keepsake.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

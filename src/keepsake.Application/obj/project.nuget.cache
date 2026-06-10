@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CBV/0sseARg=",
+  "success": true,
+  "projectFilePath": "/home/rocha/projects/keepsake/src/keepsake.Application/keepsake.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/rocha/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.9/microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512",
+    "/home/rocha/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.9/microsoft.extensions.logging.abstractions.10.0.9.nupkg.sha512",
+    "/home/rocha/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

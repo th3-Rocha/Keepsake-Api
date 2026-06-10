@@ -1,0 +1,12 @@
+/home/rocha/projects/keepsake/src/keepsake.Domain/bin/Debug/net10.0/keepsake.Domain.deps.json
+/home/rocha/projects/keepsake/src/keepsake.Domain/bin/Debug/net10.0/keepsake.Domain.dll
+/home/rocha/projects/keepsake/src/keepsake.Domain/bin/Debug/net10.0/keepsake.Domain.pdb
+/home/rocha/projects/keepsake/src/keepsake.Domain/obj/Debug/net10.0/keepsake.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/rocha/projects/keepsake/src/keepsake.Domain/obj/Debug/net10.0/keepsake.Domain.AssemblyInfoInputs.cache
+/home/rocha/projects/keepsake/src/keepsake.Domain/obj/Debug/net10.0/keepsake.Domain.AssemblyInfo.cs
+/home/rocha/projects/keepsake/src/keepsake.Domain/obj/Debug/net10.0/keepsake.Domain.csproj.CoreCompileInputs.cache
+/home/rocha/projects/keepsake/src/keepsake.Domain/obj/Debug/net10.0/keepsake.Domain.sourcelink.json
+/home/rocha/projects/keepsake/src/keepsake.Domain/obj/Debug/net10.0/keepsake.Domain.dll
+/home/rocha/projects/keepsake/src/keepsake.Domain/obj/Debug/net10.0/refint/keepsake.Domain.dll
+/home/rocha/projects/keepsake/src/keepsake.Domain/obj/Debug/net10.0/keepsake.Domain.pdb
+/home/rocha/projects/keepsake/src/keepsake.Domain/obj/Debug/net10.0/ref/keepsake.Domain.dll

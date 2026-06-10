@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ua6oMkgPp3c=",
+  "success": true,
+  "projectFilePath": "/home/rocha/projects/keepsake/src/keepsake.Domain/keepsake.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/rocha/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
